@@ -35,7 +35,7 @@ Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. A
 <p float="left">
   <img src="assets/screenshots/home_light.jpg" width="200"/>
   <img src="assets/screenshots/habit_options.jpg" width="200"/>
-  
+  <img src="assets/screenshots/create_habit_light.jpg" width="200"/>
 </p>
 
 ---
