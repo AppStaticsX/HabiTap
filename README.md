@@ -17,16 +17,25 @@ Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. A
 - 🎯 Customize habits and streak goals
 - 📱 Responsive design for all screen sizes
 - 🗃 Backup/import Habit data
+- 🌙🔆 Dark/Light Theme Toggle
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshots Dark-Mode
 
 <p float="left">
   <img src="assets/screenshots/home.jpg" width="200"/>
   <img src="assets/screenshots/add_habit.jpg" width="200"/>
   <img src="assets/screenshots/heatmap_screen.jpg" width="200"/>
+</p>
+
+---
+## 📱 Screenshots Light-Mode
+
+<p float="left">
+  <img src="assets/screenshots/home_light.jpg" width="200"/>
   <img src="assets/screenshots/habit_options.jpg" width="200"/>
+  
 </p>
 
 ---
