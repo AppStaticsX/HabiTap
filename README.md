@@ -13,7 +13,7 @@ Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. A
 - ✅ Track daily habits with a clean UI
 - 📊 Visualize progress with a heatmap calendar
 - 🗃️ Store habit data locally with Hive
-- ⏰ Daily reminders (optional)
+- ⏰ Daily reminders
 - 🎯 Customize habits and streak goals
 - 📱 Responsive design for all screen sizes
 - 🗃 Backup/import Habit data
