@@ -59,7 +59,7 @@ Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. A
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/habit_heat.git
+git clone https://github.com/AppStaticsX/HabiTap.git
 cd habit_heat
 flutter pub get
 flutter run
