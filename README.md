@@ -23,7 +23,7 @@ Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. A
 
 <p float="left">
   <img src="assets/screenshots/home.jpg" width="200"/>
-  <img src="assets/screenshots/add_habit.png" width="200"/>
+  <img src="assets/screenshots/add_habit.jpg" width="200"/>
   <img src="assets/screenshots/heatmap.png" width="200"/>
 </p>
 
