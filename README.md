@@ -16,6 +16,7 @@ Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. A
 - ⏰ Daily reminders (optional)
 - 🎯 Customize habits and streak goals
 - 📱 Responsive design for all screen sizes
+- 🗃 Backup/import Habit data
 
 ---
 
