@@ -3,7 +3,7 @@
 Welcome to **Habit Heat**, your minimalist habit tracker built in **Flutter**. Analyze your progress with a beautiful **heatmap** and store your data efficiently using **Hive**, a lightweight and blazing fast key-value database for Flutter apps.
 
 <p align="center">
-  <img src="assets/screenshots/heatmap_screenshot.png" alt="Heatmap Screenshot" width="300" />
+  <img src="assets/screenshots/home.jpg" alt="Heatmap Screenshot" width="300" />
 </p>
 
 ---
